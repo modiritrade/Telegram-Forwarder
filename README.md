@@ -98,16 +98,16 @@ Send commands to your bot in private chat using the following format:
 
 Basic Rule (All Messages)
 text
-/forward -1001234567890 to -1009876543210
+/forward -100120000890 to -10098000010
 Keyword Filtering
 text
-/forward -1001234567890 to -1009876543210 crypto,bitcoin,blockchain
+/forward -10010000890 to -100980000210 crypto,bitcoin,blockchain
 Multiple Sources & Targets
 text
-/forward -1001234567890,-100111222333 to -1009876543210,-100444555666
+/forward -100123000890,-10000002333 to -1009870000210,-10044000066
 Advanced Combo Keywords
 text
-/forward -1001234567890 to -1009876543210 [profit+cancelled],[urgent+important]
+/forward -100000067890 to -100980000210 [profit+cancelled],[urgent+important]
 Command Syntax Explained
 text
 /forward [source_ids] to [target_ids] [optional_keywords]
